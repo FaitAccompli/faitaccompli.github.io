@@ -9,9 +9,9 @@ tags: [personal, introduction, motivation, quantum-oncology, beginner, full-stac
 
 This might sound strange coming from a Software Engineer with an Electronics Engineering background, working in the AI-assisted medical image analysis field. By most measures, I'm contributing to technological advancement and, indirectly, to healthcare.
 
-Yet, when it comes to a very personal battle. my family's history with lymphoma, I've often felt profoundly useless.
+Yet, when it comes to a very personal battle, my family's history with lymphoma, I've often felt profoundly useless.
 
-It's a strange dichotomy. I build complex systems, solve intricate problems, and contribute to tools that help diagnose diseases. But facing a challenge as formidable as cancer, especially when it touches your loved ones, can make even the most capable engineer feel powerless. You want to *do something*, to apply your skills, to find a solution. And for a long time, I didn't know how to bridge that gap between my technical world and the biological frontier of Oncology.
+It's a strange dichotomy. I build complex systems, solve intricate problems, and contribute to tools that help diagnose diseases. But facing a challenge formidable like cancer, especially when it touches your loved ones, can make even the most capable engineer feel powerless. You want to *do something*, to apply your skills, to find a solution. And for a long time, I didn't know how to bridge that gap between my technical world and the biological frontier of Oncology.
 
 ## From AI to Qubits: A New Computational Frontier
 
@@ -19,7 +19,7 @@ My professional life has given me a deep appreciation for the power of computati
 
 Imagine simulating molecular interactions for entirely new drug compounds, understanding the intricate folding of proteins, or analyzing vast, complex patient genomics data to predict cancer progression with unprecedented accuracy. These aren't just hard problems; for classical computers, many are simply impossible within a realistic timeframe.
 
-This is where the whispers of a new paradigm began to capture my imagination: **quantum computing**.
+This is where the whispers of a new paradigm began to capture my imagination: *quantum computing*.
 
 I've watched from the sidelines as headlines about qubits, superposition, and entanglement grew louder. Initially, it felt like science fiction, a realm far removed from my daily coding challenges. The more I delved into the subject, the clearer it became that quantum computing could unleash computational capabilities far exceeding what we currently have. And suddenly, the thought began to crystallize: could this be the tool, the new frontier, where an engineer like me could make a genuine difference in the fight against cancer? I mean, if I can debug my spaghetti code, surely I can tackle quantum mechanics, right? How hard can it be? Just a few qubits and a sprinkle of magic!
 
