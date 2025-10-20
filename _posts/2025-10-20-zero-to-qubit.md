@@ -1,6 +1,6 @@
 ---
 title: "Zero to Qubit: Why a Software Engineer is Diving into Quantum Oncology"
-date: 2025-10-20 
+date: 2025-10-20  00:00:00 +0200
 categories: [Journey] 
 tags: [personal, introduction, motivation, quantum-oncology, beginner, full-stack, AI-assisted-imaging, lymphoma]
 ---
